@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'WEB',
-      link: 'Nirvanasubs.com',
+      link: 'https://nirvanasubs.com/',
     },
   ],
 
