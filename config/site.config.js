@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'WEB',
-      link: 'https://nirvanasubs.com/',
+      name: '',
+      link: '',
     },
   ],
 
